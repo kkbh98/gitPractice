@@ -1,7 +1,3 @@
 git repository practice
-<<<<<<< HEAD
-MASTER BRANCH
-=======
 
 DEVELOP BRANCH
->>>>>>> develop
